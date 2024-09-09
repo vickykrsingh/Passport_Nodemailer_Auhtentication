@@ -1,0 +1,12 @@
+PORT=8000
+CLIENT_URLS=
+DATABASE_URL=
+JWT_SECRET=
+# Email service credentials
+EMAIL_USER=
+EMAIL_PASS=App_password_after_2step_authentication_enabled
+
+# Application base URL (used for verification links)
+BASE_URL=http://localhost:8000 
+GOOGLE_CLIENT_ID=
+GOOGLE_CLIENT_SECRET=
